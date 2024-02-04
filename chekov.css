@@ -38,3 +38,6 @@ th,td{
    padding-top:  10px;
    padding-bottom: 20px;
 }
+.POPOVA:hover{
+    text-shadow: 1px 1px 5px red;
+}
