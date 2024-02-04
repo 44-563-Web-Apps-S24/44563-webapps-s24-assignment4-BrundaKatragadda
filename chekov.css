@@ -1,7 +1,21 @@
 .direction{
-    font-size:x-small;
+    font-size:x-large;
 }
 .direction:hover{
   color: black;
   background-color: lightblue;
+}
+.speech{
+    font-size: small;
+    color: black;
+
+}
+.LUKA{
+    color: orangered;
+}
+.POPOVA{
+    color: blue;
+}
+.SMIRNOV{
+    color: green;
 }
