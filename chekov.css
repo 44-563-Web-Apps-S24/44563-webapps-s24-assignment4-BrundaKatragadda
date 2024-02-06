@@ -1,5 +1,6 @@
 .direction{
     font-size:x-large;
+    background-color: antiquewhite;
 }
 .direction:hover{
   color: black;
@@ -40,4 +41,22 @@ th,td{
 }
 .POPOVA:hover{
     text-shadow: 1px 1px 5px red;
+}
+ul.navigationbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navigationbar li{
+     float: left;
+     color: #000;
+     background-color:aquamarine;
+}
+ul.navigationbar a{
+    display: block;
+    padding: 8px;
+}
+ul.navigationbar a:hover{
+    background-color: aqua;
+    color: blue;
 }
